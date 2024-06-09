@@ -1,5 +1,5 @@
 # Mathematica notebook for computing the BRST cohomology and brackets of a deformed 4d βγ system
-- General symbolic manipulation for the 4d beta gamma system built it
+- General symbolic manipulation for the 4d βγ system built it
 - Computes the semi-chiral ring (BRST cohomology computation in the βγ system)
 - Computes the lambda-2-bracket
 - Computes the loop-corrected regularized product
